@@ -1,0 +1,153 @@
+* {
+				font-family: Calibri Light, sans-serif;
+				
+				
+	}
+body{
+
+background-image: url(../images/w2.jpg);
+/*background-color:black;*/
+
+}
+h1{
+background-image: url(../images/r2.png);
+
+}
+
+a{
+
+background-color:#E8E8E8;
+border-radius:5px;
+color:black;
+width:100%;
+}
+
+a:hover {
+    color:red;
+    text-decoration:underline;
+	background-color:yellow;
+}
+.field_top{
+
+background: white;
+width:100%;
+border:none;
+
+}
+.field_center{
+
+background: #E8E8E8;
+width:100%;
+border:none;
+
+}
+
+h1 {
+font-family:Monotype Corsiva, Edwardian Script ITC, Arial;
+font-size:550%;
+margin:0px;
+background-image: url(../images/b1.png);/*color:#b29600;*/
+}
+
+h1,h6, nav,h5{
+text-align:center;
+}
+h5,h6{
+margin:0px;
+color:white;
+
+
+
+}
+
+h6,p,figcaption{
+
+color:black;
+
+}
+
+ 
+li {
+	display: inline;
+	padding: 5px;
+	list-style-type: none;
+	font-size:100%;
+}
+a{
+color:#b29600;
+font-size:110%;
+color:black;
+}
+	
+figcaption { 
+
+ font-style: bold;
+ font-size: 70%;
+ 
+ }
+
+article
+{
+background:;
+}
+				
+nav {         
+ background-image: url(../images/.jpg);
+ margin-top:0px;
+ color:black;
+			  
+	}
+.img_1{
+width:300px;
+border-radius: 5px;
+
+}	
+img{
+
+
+}
+/* ----------table------------------*/
+th{
+    height: 30px;
+    vertical-align: bottom;
+	text-align: left;
+	border-radius: 5px;
+	background-color: #a9a9a9;
+	
+}
+td{
+height: 30px;
+vertical-align: bottom;
+text-align: left;
+border-radius: 5px;
+background-color: #dcdcdc;
+
+}
+
+caption{
+margin: 25px;
+text-decoration: underline;
+}
+table{
+margin-left:0px;
+margin-top:15px;
+width:95%;
+
+
+}
+
+/*------------------Form----------------------*/
+
+input,select{
+background-color:#dcdcdc;
+}
+
+
+fieldset{
+width:80%;
+
+}
+form{
+margin-top:30px;
+
+}

@@ -1,0 +1,67 @@
+* {
+font-family: Verdana, sans-serif;
+color:#b29600;
+text-align: center;
+	}
+	
+body{
+
+background-image: url(../images/r1.png); 
+
+}
+
+h1 {
+font-family:Edwardian Script ITC, Arial;
+font-size:550%;
+margin:0px;
+color:#b29600;
+}
+
+h6, nav{
+text-align:center;
+}
+
+h6,p,figcaption{
+
+color:#b29600;
+
+}
+
+ 
+li {
+	display: inline;
+	padding: 5px;
+	list-style-type: none;
+	color:#b29600;
+	font-size:100%;
+}
+a{
+color:#b29600;
+font-size:110%;
+margin-top:10px;
+
+}
+	
+figcaption { 
+
+ font-style: bold;
+ font-size: 70%;
+ 
+ }
+
+nav {         
+ margin-top:0px;
+ color:#b29600;
+			  
+	}
+img{
+border:solid brown;
+border-radius: 5px;
+
+}	
+
+hr{
+margin-bottom:30px;
+
+}
+		
